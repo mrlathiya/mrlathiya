@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harsh Flutter Develoer.
+- 👋 Hi, I’m @Harsh Software Develoer.
 - 👀 I’m interested in building your profile.
 - 🌱 I’m currently working as a freelancer.
 - 💞️ Looking to forward to get connected with you.
