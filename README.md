@@ -12,6 +12,7 @@
 <div id="views"  align="center">
 <img src="https://komarev.com/ghpvc/?username=mrlathiya&style=flat-square&color=blue" alt="public views"/>
 </div>
+
 ---
 
 ### :man_technologist: About Me :
@@ -39,4 +40,11 @@
   <img src="https://github.com/mrlathiya/assets/blob/66997bf8003459b8b5be0304fb04598ea967d9b7/vscode-original.svg" title="VsCode" **alt="VsCode" width="40" height="40"/>
   <img src="https://github.com/mrlathiya/assets/blob/66997bf8003459b8b5be0304fb04598ea967d9b7/slack-original.svg" title="Slack" **alt="Slack" width="40" height="40"/>
   
+</div>
+
+---
+
+### :fire: My Stats :
+<div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrlathiya" title="Stats" alt="Stats"/>  
 </div>
