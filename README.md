@@ -21,7 +21,7 @@
 - 👀 I’m interested in building your Dreams.
 - :dove: I’m currently working as a freelancer.
 - :handshake: Looking forward to getting connected with you.
-- 📫 Reach me at mr.harsh.lathiya@gmail.com
+- ☕️ Let's have a coffee mr.harsh.lathiya@gmail.com
 
 ---
 
