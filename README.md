@@ -46,5 +46,5 @@
 
 ### :fire: My Stats :
 <div>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrlathiya&theme=tokyonight" title="Stats" alt="Stats"/>  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrlathiya&theme=tokyonight&mode=weekly" title="Stats" alt="Stats"/>  
 </div>
