@@ -20,7 +20,7 @@
 - 👋 Hi, I’m @Harsh Software Develoer.
 - 👀 I’m interested in building your Dreams.
 - :dove: I’m currently working as a freelancer.
-- :handshake: Looking forward to getting connected with you.
+- :handshake: Looking forward to having a chat.
 - ☕️ Let's have a coffee mr.harsh.lathiya@gmail.com
 
 ---
