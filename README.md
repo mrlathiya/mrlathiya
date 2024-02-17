@@ -17,10 +17,10 @@
 
 ### :man_technologist: About Me :
 
-- 👋 Hi, I’m @Harsh Software Develoer.
-- 👀 I’m interested in building your Dreams.
-- :dove: I’m currently working as a freelancer.
-- :handshake: Looking forward to having a chat.
+- 👋 Hi, I am @Harsh Software Develoer.
+- 👀 I am interested in building your Dreams.
+- :dove: I am currently working as a freelancer.
+- :handshake: I am looking forward to having a chat.
 - ☕️ Let's have a coffee mr.harsh.lathiya@gmail.com
 
 ---
