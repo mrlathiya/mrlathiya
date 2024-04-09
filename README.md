@@ -25,6 +25,10 @@
 
 ### :hammer_and_wrench: Languages & Tools :
 <div>
+  <img src="https://github.com/mrlathiya/assets/blob/ef6976dafe9c66133f8d873e6274e2790bc21231/ionicframework-icon.svg" title="Ionic" alt="Ionic" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/mrlathiya/assets/blob/0c271f87a0392149ad1a78900d262bf6728a0279/capacitorjs-icon-svgrepo-com.svg" title="Capacitor" alt="Capacitor" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/mrlathiya/assets/blob/0c271f87a0392149ad1a78900d262bf6728a0279/typescript-official-svgrepo-com.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/mrlathiya/assets/blob/0c271f87a0392149ad1a78900d262bf6728a0279/angular-icon-svgrepo-com.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/mrlathiya/assets/blob/66997bf8003459b8b5be0304fb04598ea967d9b7/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/mrlathiya/assets/blob/66997bf8003459b8b5be0304fb04598ea967d9b7/dart-original.svg" title="DART" alt="DART" width="40" height="40"/>&nbsp;
   <img src="https://github.com/mrlathiya/assets/blob/66997bf8003459b8b5be0304fb04598ea967d9b7/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
